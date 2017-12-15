@@ -1,0 +1,13 @@
+{
+  "id": "soluto",
+  "name": "Soluto",
+  "version": "1.0.0",
+  "description": "Soluto Redmine",
+  "main": "index.js",
+  "author": "Leandro Guindani Gehlen <leandrogehlen@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://suporte.solutosistemas.com.br",
+    "hasNotificationSound": false
+  }
+}
